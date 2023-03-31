@@ -1,0 +1,25 @@
+# Laravel specific directories
+/vendor
+/node_modules
+/storage/app/public
+
+# Environment file
+.env
+
+# IDE specific files
+.idea
+.code-workspace
+
+# Other generated files
+composer.lock
+npm-debug.log
+yarn.lock
+mix-manifest.json
+/public/hot
+/public/storage
+/storage/.key
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
